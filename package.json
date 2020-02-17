@@ -1,0 +1,14 @@
+{
+  "name": "tft-bot",
+  "version": "1.0.0",
+  "description": "A Teamfight Tactics Bot",
+  "main": "index.js",
+  "repository": "https://github.com/waiting7777/tft-bot.git",
+  "author": "waiting7777 <waiting0819@msn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
