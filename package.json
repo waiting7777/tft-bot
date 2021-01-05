@@ -7,7 +7,7 @@
   "author": "waiting7777 <waiting0819@msn.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0"
   }
